@@ -1,2 +1,2 @@
 # Treehacks2024_Pawsome
-Treehacks2024 hackthon submission
+Treehacks2024 hackathon submission
